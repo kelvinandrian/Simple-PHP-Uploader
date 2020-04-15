@@ -1,2 +1,2 @@
 # Simple-PHP-Uploader
-Upload file php script
+Simple upload file with php script
