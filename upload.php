@@ -1,7 +1,6 @@
 <html>
   <head>
-    <title>file uploader
-    </title>
+    <title>file uploader</title>
   </head>
   <body>
     <form action="" method="post" enctype="multipart/form-data">
